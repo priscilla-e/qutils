@@ -1,3 +1,9 @@
 # Qutils
 
-Learning how to publish to npm registry
+A collection of private util functions for my personal development.
+
+
+Installation
+```bash
+  npm i @cilladev/qutils
+```

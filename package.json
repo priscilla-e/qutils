@@ -1,6 +1,6 @@
 {
-  "name": "qutils",
-  "version": "1.0.0",
+  "name": "@cilladev/qutils",
+  "version": "1.0.1",
   "description": "Collection of utility functions",
   "main": "./dist/index.js",
   "types": "dist/index.d.ts",
