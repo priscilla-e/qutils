@@ -1,0 +1,22 @@
+{
+  "name": "qutils",
+  "version": "1.0.0",
+  "description": "Collection of utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priscilla-e/qutils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "Priscilla Emasoga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/priscilla-e/qutils/issues"
+  },
+  "homepage": "https://github.com/priscilla-e/qutils#readme"
+}
