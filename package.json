@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/priscilla-e/qutils/issues"
   },
-  "homepage": "https://github.com/priscilla-e/qutils#readme"
+  "homepage": "https://github.com/priscilla-e/qutils#readme",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  }
 }
