@@ -13,11 +13,7 @@ Install the package into your project directory:
 
 </details>
 <details>
-<summary>
-
-### 1. delay
-
-</summary>
+<summary><strong> 1. delay </strong></summary>
 
 The `delay` function is used to introduce a delay in the execution of a program. It is commonly used in scenarios where you want to pause the execution of a program for a specific amount of time.
 
