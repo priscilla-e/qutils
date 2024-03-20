@@ -1,6 +1,6 @@
 {
   "name": "@cilladev/qutils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Collection of utility functions",
   "main": "./dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/priscilla-e/qutils.git"
   },
   "keywords": [
-    "utils"
+    "utils", "utility", "functions", "typescript"
   ],
   "author": "Priscilla Emasoga",
   "license": "MIT",
